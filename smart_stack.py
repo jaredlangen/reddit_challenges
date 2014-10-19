@@ -1,3 +1,8 @@
+"""
+__author__: Jared Langenauer
+__challenge__: http://www.reddit.com/r/dailyprogrammer/comments/2j5929/10132014_challenge_184_easy_smart_stack_list/
+"""
+
 class Node:
 	""" Nodes used in List """
 	def __init__(self, data):
