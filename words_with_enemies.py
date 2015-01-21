@@ -1,3 +1,10 @@
+"""
+Taken from http://www.reddit.com/r/dailyprogrammer/comments/2syz7y/20150119_challenge_198_easy_words_with_enemies/
+
+Written by Jared Langenauer
+1/21/2015
+"""
+
 def main():
 	words = str(raw_input("Enter two words: "))
 	word_list = words.split()
