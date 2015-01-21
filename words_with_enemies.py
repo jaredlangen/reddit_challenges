@@ -3,6 +3,12 @@ Taken from http://www.reddit.com/r/dailyprogrammer/comments/2syz7y/20150119_chal
 
 Written by Jared Langenauer
 1/21/2015
+
+A game where two words are pitted against each other. Any shared letters between
+the words are cancelled out and the remaining letters become the score. The
+side with the most points wins.
+
+This implementation is a bit lengthy for python
 """
 
 def main():
